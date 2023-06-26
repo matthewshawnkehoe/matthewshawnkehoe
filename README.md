@@ -21,6 +21,7 @@
 <p align="center">
   <a><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white"></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a><img alt="Python" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
   <a><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
   <a><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
