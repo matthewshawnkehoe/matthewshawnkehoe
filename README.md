@@ -22,7 +22,12 @@
   <a><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white"></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
+  <a><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
+  <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
   <a><img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+  <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 </p>
 
 <p align='center'>
@@ -38,7 +43,7 @@
 [![Matthew's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matthewshawnkehoe&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=matthewshawnkehoe" alt="matthewshawnkehoe" /></a> </p>
 <hr/>
 
 <p align="center">
