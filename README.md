@@ -45,7 +45,3 @@
   <img src="https://komarev.com/ghpvc/?username=matthewshawnkehoe&label=Profile%20views&style=for-the-badge" alt="matthewshawnkehoe"/>
 </p>
 <hr/>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/matthewshawnkehoe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
-</p>
