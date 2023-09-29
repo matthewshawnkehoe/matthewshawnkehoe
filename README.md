@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Matthew</h1>
 
-<h3 align="center">As a Research Scientist at Michigan Tech Research Institute,</h3>
+<b><center>As a Research Scientist at Michigan Tech Research Institute, my focus lies in data analytics and machine learning, with a strong drive to solve intricate problems and derive valuable insights from data. Moreover, I am also interested in designing algorithms for various applications of computational electromagnetics in periodic media. Previously, I was a graduate student at the <a href=" https://mscs.uic.edu/">University of Illinois at Chicago</a> where I investigated wave scattering theory and was fortunate to be advised by <a href="http://homepages.math.uic.edu/~nicholls">David Nicholls</a>. I also have several years of software experience in development and consulting roles with <a href="https://workforcesoftware.com/ ">Workforce Software</a> for clients in the time-and-attendance sector and was involved in parallelizing serial code at <a href="https://www.anl.gov/">Argonne National Laboratory</a> and the <a href="https://www.erdc.usace.army.mil/Locations/CRREL/">Cold Regions Research and Engineering Laboratory</a>.</center></b>
 <hr/>
 
 <p align="center">
