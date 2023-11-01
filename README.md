@@ -19,16 +19,22 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
+  <a><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white"></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-  <a><img alt="Python" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  <a><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
   <a><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>
   <a><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
-  <a><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
   <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-  <a><img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+  <a><img alt="scikit-learn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+  <a><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
+  <a><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+  <a><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"></a>
 </p>
 
 <p align='center'>
