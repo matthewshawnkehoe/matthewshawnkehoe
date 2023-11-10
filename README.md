@@ -36,10 +36,6 @@
   <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
   <a><img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white"></a>
 </p>
-
-<p align='center'>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matthewshawnkehoe&show_icons=true&theme=dark&locale=en&layout=compact" alt="matthewshawnkehoe" />
-</p>
 <hr/>
 
 <p align="center">
